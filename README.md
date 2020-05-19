@@ -10,6 +10,8 @@ After cloning this repo, follow [these instructions](https://gist.github.com/nex
 
 ## List of scripts
 
+*Note: If Usage is omitted, it means the script is supposed to be used by simply calling the script name.*
+
 - `close_windows`: closes all currently opened windows.
   - Dependencies: `wmctrl`
   - [Source](https://askubuntu.com/a/166686)
